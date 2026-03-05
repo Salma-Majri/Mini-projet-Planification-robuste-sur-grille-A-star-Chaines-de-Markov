@@ -48,7 +48,7 @@ pip install numpy matplotlib
 
 ---
 
-## ▶️ Comment exécuter
+##  Comment exécuter
 
 ### 1. Via `python main.py` — Démonstration pas à pas
 
@@ -113,3 +113,4 @@ Ce script est dédié à la **comparaison technique** et à l'extraction de donn
 
 ### Courbe d'impact de ε sur la robustesse
 ![Evolution Probabilité Epsilon](screenshots/evolution_proba_epsilon.png)
+
